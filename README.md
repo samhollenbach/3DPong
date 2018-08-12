@@ -1,6 +1,6 @@
 # 3D Pong
 
-A standalone Java version of the addicting online game: (Curveball)[http://www.ponggame.org/3dpong.php]
+A standalone Java version of the addicting online game: [Curveball](http://www.ponggame.org/3dpong.php)
 
 ## The Motivation
 
