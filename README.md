@@ -2,7 +2,7 @@
 
 A standalone Java version of the addicting online game: [Curveball](http://www.ponggame.org/3dpong.php)
 
-![3D Pong][https://github.com/samhollenbach/3DPong/screenshots/ingame.png "In-Game Screenshot"]
+![3D Pong](https://github.com/samhollenbach/3DPong/screenshots/ingame.png "In-Game Screenshot")
 
 ## The Motivation
 
