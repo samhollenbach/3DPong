@@ -2,6 +2,8 @@
 
 A standalone Java version of the addicting online game: [Curveball](http://www.ponggame.org/3dpong.php)
 
+![3D Pong][https://github.com/samhollenbach/3DPong/screenshots/ingame.png "In-Game Screenshot"]
+
 ## The Motivation
 
 This project was meant to test my ability to recreate and expand on the mechanics and appearance of Curveball as cleanly and accurately as possible.
