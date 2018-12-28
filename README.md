@@ -12,6 +12,6 @@ I believe the finished product matches the core functionality nearly perfectly, 
 Also, this game is pretty fun to play, so an offline version is nice to have!
 
 ## The Technology
- so far
+
 This game was made in vanilla Java SE 7, GUI implemented with Swing. Tested only on mac OS so far.
 
